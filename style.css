@@ -1,0 +1,74 @@
+#joker{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+body{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+#iphone{
+    border-radius: 30px;
+    height: 350px;
+    width: 500px;
+}
+#button{
+    font-weight: 30px;
+    font-size: 30px;
+    color:black;
+}
+#b{
+    font-size: 25px;
+    color: black;
+    font-weight: 40px;
+}   
+#e{
+    cursor: default;
+}
+#price{
+    font-size: 25px;
+}
+#link{
+    font-size: 25px;
+}
+.cart{
+    height: auto;
+    width: 1310px;
+    background: blanchedalmond;
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+       
+}
+.total{
+    height: 50px;
+    width: 1310px;
+    background: blanchedalmond;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.cart-price{
+    padding-left: 40px;
+    font-size: 20px;
+}
+.cart-quantity{
+    font-size: 20px;
+}
+.removebtn{
+    font-size: 20px;
+}
+.n{
+    padding-left: 50px;
+    font-size: 20px;
+}
+.a{
+    margin-left: 40px;
+    font-size: 20px;
+}
+hr{
+height: 10px;
+border-color: rgb(20, 114, 177);
+}
+.add{
+    cursor: pointer;
+}

@@ -1,0 +1,34 @@
+#link{
+    font-size: 25px;
+}
+#joker{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+#b{
+    font-size: 25px;
+    color: black;
+    font-weight: 40px;
+}   
+#e{
+    cursor: default;
+}
+body{
+    background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+}
+#p{
+    font-size: 25px;
+    cursor: default;
+}
+#t{
+    font-size: 30px;
+    cursor: default;
+}
+#button{
+    color: black;
+    font-size: 25px;
+}
+#i{
+    border-radius: 20px;
+}
